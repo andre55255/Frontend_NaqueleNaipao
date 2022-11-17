@@ -76,14 +76,14 @@ export default function Dashboard(props) {
     const menuHeader = (
         <Menu
             items={[
-                {
-                    key: "0",
-                    label: "Alterar dados de perfil",
-                },
-                {
-                    key: "1",
-                    label: "Trocar senha",
-                },
+                // {
+                //     key: "0",
+                //     label: "Alterar dados de perfil",
+                // },
+                // {
+                //     key: "1",
+                //     label: "Trocar senha",
+                // },
             ]}
         />
     );
