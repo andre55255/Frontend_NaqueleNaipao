@@ -1,2 +1,7 @@
-# Projeto React, administração de padaria
-Para testar ajustar variavel de ambiente no arquivo .env apontando para onde está rodando a API do projeto 20221001_BackendAPIKnexJS
+<h1 align="center">Frontend Naquele NaiPão</h1>
+<p align="center">Frontend do projeto de gestão de padaria. Projeto realizado para finalização da disciplina de TDW (Tecnologia de Desenvolvimento Web)</p>
+
+<h1 align="center">
+    <a href="https://naquele-naipao-front.vercel.app/">🔗 Acessar</a>
+</h1>
+<p align="center">🚀 Link para acessar o site</p>
